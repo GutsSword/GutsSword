@@ -14,7 +14,7 @@ I graduated from Dokuz Eylül University Computer Science Department in 2024. I 
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GutsSword&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GutsSword&layout=compact&theme=radical) <br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GutsSword&show_icons=true&theme=radical)
 
 ## 💡 Information
